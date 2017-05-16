@@ -1,115 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105adab4-3d09-4fe9-b99d-5dfcf5c761bc" name="Default" comment="Physical">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/css.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/index/css-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Css/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/emotional.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/environmental.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/index/environment-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/index/mental-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/mental.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Mental/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/index/physical-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/physical.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Physical/workshops/workshops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/clubs/clubs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/goals/goals.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/goals/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/index/social.index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/resources/resources.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/resources/resources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/social.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/Social/workshops/workshops.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/app/Physical/resources.controller" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/app/Physical/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/assessment.module.js" />
+    <list default="true" id="105adab4-3d09-4fe9-b99d-5dfcf5c761bc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app.module.js" afterPath="$PROJECT_DIR$/www/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -618,11 +511,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494900694417</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Physical">
+      <created>1494910209067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494910209067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14230000" />
+    <option name="totallyTimeSpent" value="14250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
