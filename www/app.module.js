@@ -2,11 +2,12 @@
     angular.module("Cssp", [
         'ui.router',
         'ngMaterial',
-        'underscore'
+        'underscore',
+        'Assessment'
     ])
 
         .constant('appconfig', {
-            'TIMEOUT': 1800000,
+            'TIMEOUT': 1800000
         })
 
         .run(function ($rootScope, $location, $state, $stateParams, $timeout, $document, appconfig, $mdToast) {
