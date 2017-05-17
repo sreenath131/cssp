@@ -3,7 +3,8 @@
         'ui.router',
         'ngMaterial',
         'underscore',
-        'Assessment'
+        'Assessment',
+        'mobile-angular-ui'
     ])
 
         .constant('appconfig', {

@@ -6,7 +6,7 @@
     function StudentLoginController(_,$state) {
         var vm = this;
         vm.form = {};
-        vm.error = false
+        vm.error = false;
         vm.user = {
             userName: null,
             password: null
@@ -16,19 +16,19 @@
             {
                 userName: 'sayali',
                 password: 'sayali',
-                isRegistered: true,
+                isFirstTime: false,
                 isAdmin: false
             },
             {
                 userName: 'sanjay',
                 password: 'sanjay',
-                isRegistered: false,
+                isFirstTime: true,
                 isAdmin: false
             },
             {
                 userName: 'sreenath',
                 password: 'sreenath',
-                isRegistered: true,
+                isFirstTime: false,
                 isAdmin: true
             }
         ];
@@ -39,16 +39,24 @@
             var obj = _.findWhere(vm.users, { userName: vm.user.userName });
             if (obj.password == vm.user.password) {
                 console.log(obj)
-                if (obj.isRegistered) {
+                if (!obj.isFirstTime) {
                     console.log("inside if of student login")
                     $state.go('root');
                 }
                 else {
-                    $state.go('registerPage');
+                    setup();
                 }
             }
             else {
                 vm.error = true;
+            }
+        }
+
+        function setup() {
+            //code for dialog
+            
+            function setupController() {
+                //controller code
             }
         }
     }
