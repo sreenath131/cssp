@@ -1,11 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105adab4-3d09-4fe9-b99d-5dfcf5c761bc" name="Default" comment="">
+    <list default="true" id="105adab4-3d09-4fe9-b99d-5dfcf5c761bc" name="Default" comment="Mobile-angular-ui dependency installed">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app.module.js" afterPath="$PROJECT_DIR$/www/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/login/student-login.controller.js" afterPath="$PROJECT_DIR$/www/app/login/student-login.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app.routes.js" afterPath="$PROJECT_DIR$/www/app.routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html" afterPath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/css.module.js" afterPath="$PROJECT_DIR$/www/app/Css/css.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/emotional.module.js" afterPath="$PROJECT_DIR$/www/app/Emotional/emotional.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/environmental.module.js" afterPath="$PROJECT_DIR$/www/app/Environmental/environmental.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/mental.module.js" afterPath="$PROJECT_DIR$/www/app/Mental/mental.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" afterPath="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/physical.module.js" afterPath="$PROJECT_DIR$/www/app/Physical/physical.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/goals/goals.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/resources/resources.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/social.module.js" afterPath="$PROJECT_DIR$/www/app/Social/social.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/home/home.html" afterPath="$PROJECT_DIR$/www/app/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/login/login.controller.js" afterPath="$PROJECT_DIR$/www/app/login/login.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/login/login.html" afterPath="$PROJECT_DIR$/www/app/login/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,90 +81,58 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="student-login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/login/student-login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/home/home.html">
+      <file leaf-file-name="physical-index.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <caret line="6" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".npmignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.npmignore">
+      <file leaf-file-name="social.index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Social/index/social.index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <marker date="1494986387000" expanded="true" signature="0:238" ph="{&quot;name&quot;: &quot;cssp&quot;...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student-login.controller.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/app/login/student-login.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app.module.js">
+      <file leaf-file-name="social-index.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Social/index/social-index.controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/login/setup.html">
+      <file leaf-file-name="workshops.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutorials.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutorials.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Social/tutorials/tutorials.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -113,11 +141,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app.routes.js">
+      <file leaf-file-name="environmental.module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Environmental/environmental.module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environment-index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Environmental/index/environment-index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environmental-index.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goals.controller.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -128,9 +186,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -140,24 +199,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/.bowerrc" />
-        <option value="$PROJECT_DIR$/www/app.routes.js" />
-        <option value="$PROJECT_DIR$/www/app/login/login.controller.js" />
-        <option value="$PROJECT_DIR$/www/assets/components/underscore.service.js" />
-        <option value="$PROJECT_DIR$/www/assets/layout/layout.controller.js" />
-        <option value="$PROJECT_DIR$/www/assets/layout/layout.html" />
-        <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/www/app/login/login.html" />
-        <option value="$PROJECT_DIR$/www/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/www/css/index.css" />
-        <option value="$PROJECT_DIR$/www/app/login/student-login.html" />
-        <option value="$PROJECT_DIR$/www/app/home/home.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/home/home.html" />
-        <option value="$PROJECT_DIR$/www/app/login/setup.html" />
-        <option value="$PROJECT_DIR$/www/app.module.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/app/login/student-login.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/mental.module.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/physical.module.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/social.module.js" />
+        <option value="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/resources/resources.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" />
       </list>
     </option>
   </component>
@@ -253,13 +345,100 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Environmental" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Emotional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assessment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -288,6 +467,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,6 +476,18 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/www/server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/app/login" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -310,7 +502,7 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssp/www/index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/cssp/www/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -423,7 +615,9 @@
       <updated>1494829187123</updated>
       <workItem from="1494829189568" duration="4005000" />
       <workItem from="1494893983565" duration="3629000" />
-      <workItem from="1494964680211" duration="1898000" />
+      <workItem from="1494964680211" duration="15001000" />
+      <workItem from="1495402197963" duration="5960000" />
+      <workItem from="1495486043562" duration="198000" />
     </task>
     <task id="LOCAL-00001" summary="Mobile-angular-ui dependency installed">
       <created>1494986831228</created>
@@ -436,17 +630,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9532000" />
+    <option name="totallyTimeSpent" value="28793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -456,6 +649,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -476,97 +670,343 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.html">
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="45">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="98" lean-forward="false" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <marker date="1494986387000" expanded="true" signature="0:238" ph="{&quot;name&quot;: &quot;cssp&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/home/home.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/login.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app.routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/home/home.html">
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/login.html">
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="15">
+          <caret line="1" column="105" lean-forward="false" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+    <entry file="file://$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Css/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Css/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Social/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Social/resources/resources.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Css/index/css-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Social/index/social.index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -574,148 +1014,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101355">
-          <caret line="6757" column="0" lean-forward="true" selection-start-line="6757" selection-start-column="0" selection-end-line="6757" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="98" lean-forward="false" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/assets/layout/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/assets/layout/layout.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/assets/components/underscore.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101355">
-          <caret line="6757" column="0" lean-forward="false" selection-start-line="6757" selection-start-column="0" selection-end-line="6757" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/login.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/home/home.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <marker date="1494986387000" expanded="true" signature="0:238" ph="{&quot;name&quot;: &quot;cssp&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/home/home.html">
+    <entry file="file://$PROJECT_DIR$/www/app/Social/index/social-index.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app.routes.js">
+    <entry file="file://$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/setup.html">
+    <entry file="file://$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Social/tutorials/tutorials.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -723,34 +1046,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app.module.js">
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/environmental.module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.controller.js">
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/index/environment-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>

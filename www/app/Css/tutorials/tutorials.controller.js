@@ -1,3 +1,7 @@
-/**
- * Created by sreen on 5/15/2017.
- */
+(function(){
+    angular.module('Css').controller('CssTutorialsController',CssTutorialsController);
+    CssTutorialsController.$inject = [];
+    function CssTutorialsController() {
+
+    }
+})();

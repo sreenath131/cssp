@@ -46,5 +46,86 @@
                     }
                 }
             })
+
+            .state('root.assessment', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/Assessment/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.css', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/Css/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.emotional', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/home/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.enviornment', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/home/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.mental', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/home/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.occupational', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/home/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.physical', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/home/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
+            .state('root.social', {
+                url: '/',
+                views: {
+                    'content@root': {
+                        templateUrl: 'app/home/home.html',
+                        controller: 'HomeController',
+                        controllerAs: 'vm'
+                    }
+                }
+            })
     }
 })();

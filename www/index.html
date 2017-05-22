@@ -5,13 +5,13 @@
         Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
         For details, see http://go.microsoft.com/fwlink/?LinkID=617521
     -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *;">
 
     <meta name="format-detection" content="telephone=no">
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
     <link rel="stylesheet" type="text/css" href="css/index.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
     <link rel="stylesheet" type="text/css" href="assets/libs/angular-material/angular-material.css">
     <link rel="stylesheet" type="text/css" href="../node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-base.css">
     <link rel="stylesheet" type="text/css" href="../node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-desktop.css">
@@ -25,6 +25,7 @@
     <script src="assets/libs/angular-material/angular-material.js"></script>
     <script src="assets/libs/angular-messages/angular-messages.js"></script>
     <script src="assets/libs/underscore/underscore.js"></script>
+    <script src="assets/libs/angular-resource/angular-resource.js"></script>
     <script src="../node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.js"></script>
     <script src="../node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.core.js"></script>
 
@@ -34,8 +35,7 @@
 <div ui-view="login"></div>
 <div ui-view="studentLogin"></div>
 <div ui-view></div>
-<script type="text/javascript" src="cordova.js"></script>
-<script type="text/javascript" src="scripts/platformOverrides.js"></script>
+
 
 <!-- APPLICATION CONTROLLERS AND MODULES-->
 <script src="app.module.js"></script>
@@ -123,7 +123,7 @@
 <script src="app/Social/workshops/workshops.controller.js"></script>
 
 
-<script type="text/javascript" src="scripts/index.js"></script>
+
 
 <!-- SERVICES -->
 <script src="assets/components/underscore.service.js"></script>
