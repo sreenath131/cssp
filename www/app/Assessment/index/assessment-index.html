@@ -1,3 +1,6 @@
-<div>
-
+<div ng-repeat="campus in vm.campusResource">
+    <p>{{campus.name}}</p>
+    <p>{{campus.phone}}</p>
+    <p>{{campus.email}}</p>
+    <md-divider ng-if="!$last"></md-divider>
 </div>

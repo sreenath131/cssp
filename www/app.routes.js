@@ -48,11 +48,11 @@
             })
 
             .state('root.assessment', {
-                url: '/',
+                url: 'assessment',
                 views: {
                     'content@root': {
-                        templateUrl: 'app/Assessment/home.html',
-                        controller: 'HomeController',
+                        templateUrl: 'app/Assessment/index/assessment-index.html',
+                        controller: 'AssessmentController',
                         controllerAs: 'vm'
                     }
                 }

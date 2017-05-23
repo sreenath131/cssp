@@ -5,7 +5,7 @@
         'ngResource',
         'underscore',
         'Assessment',
-        'mobile-angular-ui'
+        'Services'
     ])
 
         .constant('appconfig', {
@@ -21,14 +21,14 @@
 
             $rootScope.$on('$stateChangeStart', function (event, toState) {
                 var timeOutThread = $timeout(function () { logoutSession(); }, maxIdleSession);
-                if (toState.name != 'login') {
+                if (toState.name !== 'login') {
                     angular.forEach(eventArray, function (eventName) {
                         bodyElement.on(eventName, function (e) {
                             ResetIdleSession(e);
                         })
                     })
                 }
-                else if (toState.name == 'login') {
+                else if (toState.name === 'login') {
                     unbindTimerEvents();
                 }
 

@@ -1,71 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105adab4-3d09-4fe9-b99d-5dfcf5c761bc" name="Default" comment="Mobile-angular-ui dependency installed">
+    <list default="true" id="105adab4-3d09-4fe9-b99d-5dfcf5c761bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/services/assessment.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/services/service.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/server/queries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/server/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/server/routes/users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/server/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/server/www.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app.module.js" afterPath="$PROJECT_DIR$/www/app.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app.routes.js" afterPath="$PROJECT_DIR$/www/app.routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html" afterPath="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/css.module.js" afterPath="$PROJECT_DIR$/www/app/Css/css.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/emotional.module.js" afterPath="$PROJECT_DIR$/www/app/Emotional/emotional.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/environmental.module.js" afterPath="$PROJECT_DIR$/www/app/Environmental/environmental.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/mental.module.js" afterPath="$PROJECT_DIR$/www/app/Mental/mental.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" afterPath="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/physical.module.js" afterPath="$PROJECT_DIR$/www/app/Physical/physical.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/goals/goals.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/goals/goals.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/resources/resources.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/resources/resources.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/social.module.js" afterPath="$PROJECT_DIR$/www/app/Social/social.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js" afterPath="$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/home/home.html" afterPath="$PROJECT_DIR$/www/app/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/login/login.controller.js" afterPath="$PROJECT_DIR$/www/app/login/login.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/login/login.html" afterPath="$PROJECT_DIR$/www/app/login/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -80,102 +32,104 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="physical-index.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="app.module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app.module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="147">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1495496414972" expanded="true" signature="42:96" ph="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/server/www.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="social.index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Social/index/social.index.html">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="social-index.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Social/index/social-index.controller.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/server/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="710">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queries.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/server/queries.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assessment-index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assessment.service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/assets/services/assessment.service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clubs.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
               <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshops.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js">
+      <file leaf-file-name="service.module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/assets/services/service.module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorials.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorials.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Social/tutorials/tutorials.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="environmental.module.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Environmental/environmental.module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="environment-index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Environmental/index/environment-index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="environmental-index.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="goals.controller.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="21">
+              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -193,30 +147,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>debu</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/app/Mental/mental.module.js" />
-        <option value="$PROJECT_DIR$/www/app/Occupational/occupational.module.js" />
-        <option value="$PROJECT_DIR$/www/app/Physical/physical.module.js" />
-        <option value="$PROJECT_DIR$/www/app/Social/social.module.js" />
-        <option value="$PROJECT_DIR$/www/app/Css/index/css-index.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Css/goals/goals.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Css/resources/resources.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js" />
-        <option value="$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js" />
         <option value="$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js" />
         <option value="$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js" />
         <option value="$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js" />
@@ -250,6 +191,24 @@
         <option value="$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js" />
         <option value="$PROJECT_DIR$/www/app/Social/index/social-index.controller.js" />
         <option value="$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js" />
+        <option value="$PROJECT_DIR$/www/server/database.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/www/server/app.js" />
+        <option value="$PROJECT_DIR$/www/server/queries.js" />
+        <option value="$PROJECT_DIR$/www/server/config/config.js" />
+        <option value="$PROJECT_DIR$/www/server/www.js" />
+        <option value="$PROJECT_DIR$/www/server/server.js" />
+        <option value="$PROJECT_DIR$/www/server/routes/index.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/www/app/home/home.html" />
+        <option value="$PROJECT_DIR$/www/assets/Services/service.module.js" />
+        <option value="$PROJECT_DIR$/www/app.module.js" />
+        <option value="$PROJECT_DIR$/www/assets/Services/assessment.service.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/app.routes.js" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html" />
+        <option value="$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js" />
+        <option value="$PROJECT_DIR$/www/assets/services/assessment.service.js" />
       </list>
     </option>
   </component>
@@ -263,11 +222,14 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="809" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -283,6 +245,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="cssp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="cssp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -323,7 +314,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,132 +355,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Environmental" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Emotional" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assessment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="cssp">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="cssp">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="www">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -480,14 +372,338 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sreen\Pictures\cssp\www\server" />
+      <recent name="$PROJECT_DIR$/www/app/login" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/www/server" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/www/app/login" />
-    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app.routes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/css.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/index/css-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/emotional.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/index/emotional-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/environmental.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/index/environmental-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/index/mental-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/mental.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/index/occupational-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/occupational.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Occupational/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/physical.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Physical/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/clubs/clubs.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/goals/goals.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/index/social-index.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/resources/resources.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/social.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/tutorials/tutorials.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/Social/workshops/workshops.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/home/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/login/login.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/login/login.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/login/student-login.controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/index.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.babelrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.depcheckrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.editorconfig</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.eslintignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.eslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.releaseflowrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/bower.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/ci.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/accordion.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/carousel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/demo.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/demo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/drag.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/drag2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/dropdown.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/favicon.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/forms.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/img/1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/img/2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/img/3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/img/4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/img/5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/modal1.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/modal2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/overlay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/scroll.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/sidebar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/sidebarRight.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/swipe.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/tabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/toggle.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/demo/touch.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-base.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-base.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-desktop.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-desktop.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-hover.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/css/mobile-angular-ui-hover.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/fonts/fontawesome-webfont.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/fonts/fontawesome-webfont.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/fonts/fontawesome-webfont.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/fonts/fontawesome-webfont.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/fonts/fontawesome-webfont.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.core.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.core.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.gestures.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.gestures.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.gestures.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/dist/js/mobile-angular-ui.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/examples/clock.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/examples/drag.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/examples/lightbulb.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/examples/tabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/gulpfile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/components/modals.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/components/navbars.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/components/scrollable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/components/sidebars.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/components/switch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/core/activeLinks.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/core/capture.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/core/fastclick.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/core/outerClick.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/core/sharedState.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/core/touchmoveDefaults.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/gestures/drag.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/gestures/swipe.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/gestures/touch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/gestures/transform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/mobile-angular-ui.components.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/mobile-angular-ui.core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/mobile-angular-ui.gestures.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/js/mobile-angular-ui.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/app.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/carousel.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/dropdown.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/forms.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/globals.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/justified.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/layout.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/list-groups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/modal.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/navbars.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/normalize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/panel.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/scrollable.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/sections.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/sidebar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/switch.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/lib/validations.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/mobile-angular-ui-base.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/mobile-angular-ui-desktop.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/sm-grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/src/less/variables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/.eslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/app/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/app/scrollable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/app/scrollable.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/DemoPage.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/FormsPage.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/HomePage.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/OverlaysPage.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/forms.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/homepage.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/demo/overlays.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/protractor.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/e2e/screenshots/.gitkeep</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/.eslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/components/modals.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/components/navbars.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/components/scrollable.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/components/sidebars.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/components/switch.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/activeLinks.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/capture/Capture.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/capture/ui-content-for.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/capture/ui-yield-to.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/fastClick.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/outerClick.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/SharedState.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-class.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-hide.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-if.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-scope-context.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-show.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-state.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-toggle.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-turn-off.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/core/sharedState/ui-turn-on.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/gestures/drag.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/gestures/swipe.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/gestures/touch.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/gestures/transform.spec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/mobile-angular-ui/test/unit/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/www/app/login/setup.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -502,7 +718,7 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/cssp/www/index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000/cssp/www/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -630,30 +846,71 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28793000" />
+    <option name="totallyTimeSpent" value="41474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="809" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -670,179 +927,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/app/Assessment/resources/resources.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Assessment/workshops/workshops.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="105" lean-forward="false" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Css/clubs/clubs.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Css/goals/goals.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Css/resources/resources.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Css/tutorials/tutorials.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Css/workshops/workshops.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Emotional/clubs/clubs.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Emotional/goals/goals.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Emotional/resources/resources.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Emotional/tutorials/tutorials.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Emotional/workshops/workshops.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Environmental/clubs/clubs.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Environmental/resources/resources.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Environmental/tutorials/tutorials.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Environmental/workshops/workshops.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Mental/clubs/clubs.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Mental/goals/goals.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Mental/resources/resources.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Mental/tutorials/tutorials.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/app/Mental/workshops/workshops.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -938,7 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -946,23 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,7 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,7 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,7 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -994,19 +1050,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/Physical/index/physical-index.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/Social/index/social.index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1014,10 +1061,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Social/index/social.index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/app/Social/index/social-index.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1026,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,7 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1058,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,7 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,6 +1123,194 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/goals/goals.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/login/login.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/login/student-login.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Physical/index/physical-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="94" lean-forward="true" selection-start-line="6" selection-start-column="94" selection-end-line="6" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1495495556980" expanded="true" signature="0:200" ph="{&quot;name&quot;: &quot;cssp&quot;...}" />
+            <marker date="1495495556980" expanded="true" signature="38:198" ph="{&quot;angular&quot;: &quot;^1.6.4&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="125" column="50" lean-forward="false" selection-start-line="125" selection-start-column="50" selection-end-line="125" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/index/assessment-index.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/index/assessment-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/services/assessment.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/services/service.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/Assessment/clubs/clubs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1495496414972" expanded="true" signature="42:96" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/www.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/queries.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
